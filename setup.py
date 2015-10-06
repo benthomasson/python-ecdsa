@@ -76,7 +76,7 @@ commands["speed"] = Speed
 
 
 setup(name="ecdsa",
-      version=versioneer.get_version(),
+      version="0.13",
       description="ECDSA cryptographic signature library (pure python)",
       author="Brian Warner",
       author_email="warner@lothar.com",
